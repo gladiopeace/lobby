@@ -1,0 +1,5 @@
+name: Lobby
+main: com.keremc.lobby.LobbyPlugin
+version: 1.0
+author: Kerem Celik
+load: STARTUP
